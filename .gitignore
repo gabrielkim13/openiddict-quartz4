@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# Project exclude paths
+/BlazorApp1/wwwroot/lib/bootstrap/dist/
